@@ -1,0 +1,3 @@
+() recv_internal(int msg_value, cell is_msg, slice in_msg_body) impure {
+
+}
